@@ -1,5 +1,7 @@
-Student Project ( Centrale Nantes applied mathematics)
+Student Project ( Centrale Nantes applied mathematics) 
+
 Authors : Marechal Aloïs, Fumey Tristan, De La purification Loanne
+
 Special Thanks to Claire Brechteau our teacher
 
 On the notebook is all the code we used to get 92% MAPE on the validation test
